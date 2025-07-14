@@ -1,1 +1,6 @@
 Hello !
+# WARNING: This is a fake test file with dummy secrets for Gitleaks testing
+
+aws_secret_access_key = "AKIAEXAMPLEFAKEKEY123456"  # AWS secret
+db_password = "superSecret123!"  # Hardcoded DB password
+
