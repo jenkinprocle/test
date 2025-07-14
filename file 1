@@ -2,5 +2,4 @@ Hello !
 
 
 aws_secret_access_key = "AKIAEXAMPLEFAKEKEY123456"  # AWS secret
-slack_token = "xoxb-123456789012-abcdefghijklmnopqrstuvwx"  # Slack bot token
 db_password = "superSecret123!"  # Hardcoded DB password
