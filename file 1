@@ -1,5 +1,5 @@
 Hello !
 # WARNING: This is a fake test file with dummy secrets for Gitleaks testing
 
-aws_secret_access_key = "AKIAIOSFODNN7EXAMPLE"
+
 
